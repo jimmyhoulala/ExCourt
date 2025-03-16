@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="excourtFront\images\logo.png" width="200" alt="ExCourt Logo">
+</p>
+
 # 易场地 - 同济大学羽毛球场地交换系统 / ExCourt - Tongji University Badminton Court Exchange System
 
 ## 项目简介 / Project Overview
