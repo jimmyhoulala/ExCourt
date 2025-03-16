@@ -1,6 +1,6 @@
 <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="excourtFront\images\logo.png" width="200" alt="ExCourt Logo">
 </p>
@@ -118,6 +118,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jimmyhoulala"><img src="https://avatars.githubusercontent.com/u/143332244?v=4?s=100" width="100px;" alt="JimmyHou"/><br /><sub><b>JimmyHou</b></sub></a><br /><a href="https://github.com/ShanghaineseImpact/ExCourt/commits?author=jimmyhoulala" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Haskyyyyyyyy"><img src="https://avatars.githubusercontent.com/u/128458477?v=4?s=100" width="100px;" alt="Haskyyyyyyyy"/><br /><sub><b>Haskyyyyyyyy</b></sub></a><br /><a href="https://github.com/ShanghaineseImpact/ExCourt/commits?author=Haskyyyyyyyy" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/missingp"><img src="https://avatars.githubusercontent.com/u/114979645?v=4?s=100" width="100px;" alt="X.Liar"/><br /><sub><b>X.Liar</b></sub></a><br /><a href="https://github.com/ShanghaineseImpact/ExCourt/commits?author=missingp" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
